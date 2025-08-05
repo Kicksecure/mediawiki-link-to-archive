@@ -2,7 +2,7 @@
 
 namespace LinkToArchive;
 
-use Html;
+use MediaWiki\Html\Html;
 
 class LinkToArchive
 {
@@ -112,4 +112,3 @@ class LinkToArchive
   }
 
 }
-
